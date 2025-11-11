@@ -1,7 +1,7 @@
 # CSS-225_Milestone-3-_Game
 
 This is a text-based adventure game inspired by The Alchemist by Paulo Coelho. The player follows Santiago’s journey through interactive chapters, making choices that affect the outcome. Each chapter is written as a separate Python module for modular design and easy expansion.
-🧩 Structure
+# 🧩 Structure
 - chapter1.py – Start in Andalusia, talk to villagers, visit the gypsy, sell sheep, and begin the journey.
 - chapter2.py – Explore the oasis, help the Englishman, and follow the hawk’s flight.
 - chapter3.py – Meet the chieftain and the alchemist, choose whether to accept guidance and continue the desert journey.
